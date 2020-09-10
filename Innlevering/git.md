@@ -23,5 +23,6 @@
 - git fetch
 - git pull
 - fix conflict
+- git add .
 - git commit -am "Fixed conflict"
 - git push
