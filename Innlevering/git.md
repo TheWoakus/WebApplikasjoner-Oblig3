@@ -9,3 +9,12 @@
 
 - git checkout -b dev
 - echo 'console.log("hiof") >> hiof.js
+- git add .
+- git commit -am "Added hiof.js"
+- git push
+- git fetch
+- git pull
+- git checkout master
+- git merge dev
+- git commit -am "Merge dev into master"
+- git push
