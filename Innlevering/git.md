@@ -18,3 +18,10 @@
 - git merge dev
 - git commit -am "Merge dev into master"
 - git push
+
+- Make conflicting changes
+- git fetch
+- git pull
+- fix conflict
+- git commit -am "Fixed conflict"
+- git push
